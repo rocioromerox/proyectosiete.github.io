@@ -64,7 +64,7 @@
   }
 
 
-  .box__name, .box__email, .box__send{
+  .box__name, .box__email, .box__send { 
       width: 100px;
       height: 30px;
       margin: 10px;
@@ -72,6 +72,7 @@
 
   .box__send {
       background-color: #FFDD33;
+
   } 
 
 /* section three*/
@@ -177,6 +178,8 @@
 
 .item__listitems {
     list-style: circle;
+    
+    
 
 }
 
